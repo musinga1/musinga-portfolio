@@ -1,2 +1,2 @@
-# musinga-portfolio
-personal portfolio
+# my-portfolio
+
